@@ -1,0 +1,6 @@
+# Build artifacts
+*bin
+*obj
+
+# Build
+*OOP-bank-account.sln
